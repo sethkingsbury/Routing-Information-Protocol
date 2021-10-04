@@ -1,0 +1,3 @@
+router-id 6
+input-ports 2013, 2014
+outputs 2003-5-1, 2012-1-5

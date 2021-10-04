@@ -1,0 +1,3 @@
+router-id 7
+input-ports 2015, 2016
+outputs 2002-8-1, 2010-6-4
